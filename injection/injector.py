@@ -1,0 +1,2 @@
+class Injector:
+    pass
